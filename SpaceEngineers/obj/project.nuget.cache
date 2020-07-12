@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g/rc0Bb//F1YTa+i+06fs7wUij9G70tJk4c9ZwEyhZLJuXScoDMyeODoxw9/MkMbSZNGLroWe6Hyj4Hm8xpUvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sevam\\source\\repos\\SpaceEngineers\\SpaceEngineers\\SpaceEngineers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sevam\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sevam\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

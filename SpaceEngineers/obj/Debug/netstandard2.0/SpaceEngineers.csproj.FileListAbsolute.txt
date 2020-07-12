@@ -1,0 +1,9 @@
+C:\Users\Sevam\source\repos\SpaceEngineers\SpaceEngineers\bin\Debug\netstandard2.0\SpaceEngineers.deps.json
+C:\Users\Sevam\source\repos\SpaceEngineers\SpaceEngineers\bin\Debug\netstandard2.0\SpaceEngineers.dll
+C:\Users\Sevam\source\repos\SpaceEngineers\SpaceEngineers\bin\Debug\netstandard2.0\SpaceEngineers.pdb
+C:\Users\Sevam\source\repos\SpaceEngineers\SpaceEngineers\obj\Debug\netstandard2.0\SpaceEngineers.csprojAssemblyReference.cache
+C:\Users\Sevam\source\repos\SpaceEngineers\SpaceEngineers\obj\Debug\netstandard2.0\SpaceEngineers.AssemblyInfoInputs.cache
+C:\Users\Sevam\source\repos\SpaceEngineers\SpaceEngineers\obj\Debug\netstandard2.0\SpaceEngineers.AssemblyInfo.cs
+C:\Users\Sevam\source\repos\SpaceEngineers\SpaceEngineers\obj\Debug\netstandard2.0\SpaceEngineers.csproj.CoreCompileInputs.cache
+C:\Users\Sevam\source\repos\SpaceEngineers\SpaceEngineers\obj\Debug\netstandard2.0\SpaceEngineers.dll
+C:\Users\Sevam\source\repos\SpaceEngineers\SpaceEngineers\obj\Debug\netstandard2.0\SpaceEngineers.pdb
